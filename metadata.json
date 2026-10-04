@@ -1,0 +1,6 @@
+{
+  "name": "CodeGenCharAI",
+  "description": "Python Student Practice Sandbox with Dynamic Mastery Dashboard and AI Doubt Chatbot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
